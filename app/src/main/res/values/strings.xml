@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVP Pattern</string>
+  <string name="hint_name">Name</string>
+  <string name="hint_email">Email</string>
 </resources>
